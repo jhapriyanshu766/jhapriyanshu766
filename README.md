@@ -1,4 +1,4 @@
-# Hi, I'm Happy Maurya
+# Hi, I'm priyanshu jha
 
 I'm a passionate Full-Stack Developer specializing in the MERN Stack with a strong foundation in Data Structures & Algorithms. I build scalable web applications, write clean and maintainable code, and enjoy solving real-world problems through tech. With hands-on experience in both frontend and backend development, I bring end-to-end solutions to life.
 
@@ -7,7 +7,7 @@ I'm a passionate Full-Stack Developer specializing in the MERN Stack with a stro
 ![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 
-    * 🧠 DSA Proficiency: Solved 200+ problems on platforms like LeetCode, HackerRank
+    * 🧠 DSA Proficiency: Solved 500+ problems on platforms like LeetCode, HackerRank, gfg
 # Language 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
